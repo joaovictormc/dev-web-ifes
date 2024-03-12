@@ -1,0 +1,11 @@
+-> Início da requisição: A requisição é iniciada pelo cliente, geralmente um navegador da Web.
+
+-> Especificação do método HTTP: O método HTTP (como GET, PUT ou POST) descreve a ação a ser executada2.
+
+-> Especificação do alvo da requisição: O alvo da requisição é normalmente um URL, ou o caminho absoluto do protocolo, porta e domínio.
+
+-> Envio da requisição ao servidor: A requisição é enviada ao servidor, que irá processá-la e fornecer um resultado.
+
+-> Processamento do servidor: Diferentemente de uma página estática, uma página dinâmica pode exigir que o servidor execute algum código para gerar a página HTML. Isso pode incluir a consulta a um banco de dados, a execução de um script ou a geração de conteúdo com base em informações específicas do usuário.
+
+-> Resposta do servidor: O servidor envia uma resposta, que é recebida pelo cliente

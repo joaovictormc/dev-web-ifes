@@ -1,0 +1,7 @@
+Os três tipos são:
+
+-> O HTML que define a estrutura básica de uma página web e seus elementos.
+
+-> O CSS que determina como os elementos HTML devem ser exibidos na tela, em termos de layout, cores, fontes, etc
+
+-> O JavaScript que com ele é possível criar conteúdos dinâmicos, como jogos, respostas a eventos de clique, formulários interativos, animações, entre outros

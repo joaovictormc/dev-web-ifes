@@ -1,0 +1,12 @@
+O elemento HTML que contém elementos com metainformações sobre uma página web é o <head>.
+
+O <head> é um elemento container que fica dentro da tag <html> e é usado para armazenar informações sobre a página que não são visíveis ao usuário, como:
+
+-> Título da página: Definido com a tag <title>.
+-> Codificação de caracteres: Definida com a meta tag <meta charset="utf-8">.
+-> Descrição da página: Definida com a meta tag <meta name="description" content="Descrição da página">.
+-> Palavras-chave da página: Definida com a meta tag <meta name="keywords" content="Palavra-chave1, Palavra-chave2, ...">.
+-> Autores da página: Definida com a meta tag <meta name="author" content="Nome do autor">.
+-> Viewport da página: Definida com a meta tag <meta name="viewport" content="width=device-width, initial-scale=1.0">.
+-> Links para folhas de estilo CSS: Definidos com a tag <link rel="stylesheet" href="estilo.css">.
+-> Links para scripts JavaScript: Definidos com a tag <script src="script.js"></script>.

@@ -1,0 +1,1 @@
+Pode ter quantidades ilimitadas de arquivos CSS e JavaScript vinculados a ela. Não há um limite  definido para o número de arquivos que podem ser referenciados. No entanto, é importante considerar a performance e a manutenção do site ao decidir quantos arquivos incluir.

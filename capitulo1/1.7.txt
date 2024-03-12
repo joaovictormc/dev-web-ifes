@@ -1,0 +1,7 @@
+-> Interatividade: O JavaScript permite inserir vários efeitos, tornando o site mais dinâmico e com maior interação com o usuário.
+
+-> Desempenho: A atualização parcial de conteúdo pode melhorar o desempenho do site, pois apenas partes específicas da página precisam ser atualizadas, em vez de recarregar a página inteira.
+
+-> Experiência do usuário: Isso pode levar a um aumento no tempo de permanência no site, redução da taxa de rejeição e maior interação com o conteúdo.
+
+-> Flexibilidade: O JavaScript permite executar instruções como resposta às ações do usuário, o que pode criar páginas interativas com programas, como calculadoras, agendas ou tabelas de cálculo.

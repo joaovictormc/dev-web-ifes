@@ -1,0 +1,6 @@
+O elemento HTML que permite associar um documento CSS a uma página web na seção de metainformações é a tag <link>.
+
+A tag <link> é usada para criar um link entre um documento HTML e um arquivo CSS externo. Ela fica dentro da tag <head> da página HTML e possui os seguintes atributos:
+
+rel: Define o tipo de relação entre o documento HTML e o arquivo CSS. Neste caso, o valor deve ser "stylesheet".
+href: Define o caminho para o arquivo CSS.

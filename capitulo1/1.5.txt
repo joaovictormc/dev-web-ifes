@@ -1,0 +1,9 @@
+-> Início da requisição: A requisição é iniciada pelo cliente, geralmente um navegador da Web.
+
+-> Especificação do método HTTP: O método HTTP (como GET, PUT ou POST) descreve a ação a ser executada.
+
+-> Especificação do alvo da requisição: O alvo da requisição é normalmente um URL, ou o caminho absoluto do protocolo, porta e domínio.
+
+-> Envio da requisição ao servidor: A requisição é enviada ao servidor, que irá processá-la e fornecer um resultado.
+
+-> Resposta do servidor: O servidor envia uma resposta, que é recebida pelo cliente

@@ -1,0 +1,1 @@
+O elemento HTML que contém todos os outros elementos de uma página é o <html>

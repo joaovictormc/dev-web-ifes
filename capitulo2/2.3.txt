@@ -1,0 +1,11 @@
+O elemento HTML que contém todos os elementos de conteúdo de uma página web é o <body>.
+
+O <body> é um elemento container que fica dentro da tag <html> e é usado para armazenar todo o conteúdo visível da página, como:
+
+-> Texto: Parágrafos, títulos, headings, etc.
+-> Imagens: Fotos, ícones, etc.
+-> Vídeos: Clipes de vídeo, animações, etc.
+-> Links: Links para outras páginas web ou arquivos.
+-> Formulários: Formulários de contato, pesquisas, etc.
+-> Tabelas: Tabelas de dados, etc.
+-> Outros elementos: Qualquer outro elemento HTML que seja visível ao usuário.
