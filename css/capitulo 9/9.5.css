@@ -1,0 +1,11 @@
+.fundo-vermelho {
+    background-color: red;
+}
+
+p > a {
+    color: blue;
+}
+
+.fundo-rosa {
+    background-color: hsl(330, 75%, 70%);
+}

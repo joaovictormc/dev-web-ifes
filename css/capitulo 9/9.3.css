@@ -1,0 +1,12 @@
+.fundo-vermelho {
+    background-color: red;
+}
+
+p > a {
+    color: blue;
+}
+
+
+.fundo-verde {
+    background-color: rgb(50, 205, 50);
+}

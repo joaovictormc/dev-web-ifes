@@ -1,0 +1,12 @@
+.fundo-vermelho {
+    background-color: red;
+}
+
+p > a {
+    color: blue;
+}
+
+ul {
+    font-size: 26px;
+    color: rgba(128, 128, 128, 0.5);
+}

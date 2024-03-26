@@ -1,0 +1,10 @@
+/* arquivo estilo.css */
+p {
+    font-size: 18px;
+}
+
+#titulo {
+    font-size: 28px;
+    color: green;
+    font-weight: bold;
+}
