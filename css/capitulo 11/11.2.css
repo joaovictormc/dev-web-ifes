@@ -1,0 +1,8 @@
+p::after {
+    content: "";
+    display: block;
+    border-bottom: 1px solid black;
+    width: 100%;
+    margin: 10px 0;
+  }
+  

@@ -1,0 +1,12 @@
+/* styles.css */
+.container {
+    display: flex;
+}
+
+.item {
+    flex-grow: 1;
+}
+
+.item:nth-child(3) {
+    flex-grow: 2;
+}

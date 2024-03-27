@@ -1,0 +1,4 @@
+/* styles.css */
+p::first-letter {
+    font-size: 150%; /* Ajuste o tamanho conforme necessário */
+}

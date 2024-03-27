@@ -1,0 +1,8 @@
+/* styles.css */
+p {
+    color: #3366ff; /* Exemplo de cor em hexadecimal */
+}
+
+span.destaque {
+    font-weight: bold;
+}
